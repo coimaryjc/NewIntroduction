@@ -1,0 +1,5 @@
+How to set up you coding journey?
+Open Windows Powershell for command
+Install Virtual Studio Code 
+Download Git and verify.
+To know if it is verified successfully, type git --version in Powershell. It will show  the version once successfull, and will show error otherwise.
